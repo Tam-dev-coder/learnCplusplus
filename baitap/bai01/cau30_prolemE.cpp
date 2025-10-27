@@ -13,7 +13,7 @@ int main () {
         }
     }
     else {
-	    double delta = b*b - (4 * a * c);
+	    int delta = b*b - (4 * a * c);
 	    if(delta > 0) {
 		    double x1 = (-b + sqrt(delta))/ (2*a);
 		    double x2 = (-b - sqrt(delta)) / (2*a);
@@ -30,4 +30,3 @@ int main () {
 	    } 
     }
 } 
-
