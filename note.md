@@ -15,4 +15,7 @@ chú ý câu 30 bài 02 vòng lặp
 hàm swap(a, b) hoán vị giá trị của a và b
 
 
-Tới câu 11
+
+câu 37 có vấn đề trang 48
+câu 38 trang 49
+
